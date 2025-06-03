@@ -1,0 +1,21 @@
+body {
+  background: #f9fbe7;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+.box {
+  padding: 18px;
+}
+
+img {
+  width: 210px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+p {
+  font-size: 14px;
+  color: #424242;
+}
